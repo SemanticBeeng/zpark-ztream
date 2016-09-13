@@ -14,6 +14,9 @@ modules
 precompiled
 project/project
 project/target
+project/.sbtboot
+project/.ivy
+project/.boot
 target
 tmp
 test-result
